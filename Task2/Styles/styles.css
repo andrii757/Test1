@@ -1,0 +1,58 @@
+.section-1 {
+    max-width: 1300px;
+    min-width: 400px;
+    margin: 20px auto;
+    font-size: 16px;
+    line-height: 18px;
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-2 {
+    max-width: 1300px;
+    min-width: 400px;
+    margin: 20px auto;
+    text-align: justify;
+    vertical-align: middle;
+    background-color: orange;
+    color: white;
+}
+
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 80px;
+    color: black;
+    background-color: white;
+    padding: 10px 15px;
+}
+
+.section-3 {
+    max-width: 1300px;
+    min-width: 400px;
+    margin: 20px auto;
+    color: white;
+    background-color: black;
+}
+
+.table-sec-3 {
+    color: white;
+    font-size: 16px;
+    line-height: 25px;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid grey;
+    
+}
+
+.section-4 {
+    max-width: 1300px;
+    min-width: 400px;
+    margin: 20px auto;
+}
+
+.section-5 {
+    max-width: 1300px;
+    min-width: 400px;
+    margin: 20px auto;
+}
